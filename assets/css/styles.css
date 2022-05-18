@@ -7,7 +7,7 @@
 
 /* css variables */
 :root{
-   --mainColor:rgb(164, 181, 183);
+   --mainColor:rgb(114, 148, 105);
    --secondColor: white;
     --blkColor: black;
 }
@@ -69,7 +69,7 @@ body{
 
  .sub-header{
     height: 90px;
-    background-image: url("../img/html.png");
+   
     background-size:cover; 
  }
  .sub-header button {
@@ -178,7 +178,7 @@ body{
     flex-direction: column;
     height: 100px;
     width: 100%;
-    background-color: rgb(164, 181, 183);
+    background-color: var(--mainColor);
     color: black;
     text-align: center;
     margin: 10px;
