@@ -2,8 +2,6 @@
 
 ### Description
 
-## my personel website
-
 This is my personel Website,it is resposive on mobile screen 
 it has my contact information
 
@@ -12,18 +10,19 @@ it has my contact information
 * Twitter
 * Phone Number
 
-### Technology
+### Technologies
 
 * HTML
 * CSS
 * JavaScript (Dark and Light mode)
 
-### Work
+### Works
 
 * Eagleye 
 
 I am one of the people who built this website, my role was to Fetch Weather API and get the data needed and append it to the website, i also did the Dark and light mode. 
 you can access it throught my personel website or you can click the link below.
+
 > https://surfinsofia.github.io/groupproject1/
 
 * WeathApp
@@ -48,3 +47,16 @@ This applications doesn't have a license.
 
 ### Links
 
+* https://github.com/raphson1/portfolio-3
+* https://raphson1.github.io/portfolio-3/
+
+
+### Images
+
+[Img1](assets/img/img1.png)
+[Img2](assets/img/img2.png)
+[Img3](assets/img/img3.png)
+
+
+
+-------------------------------

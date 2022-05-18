@@ -74,19 +74,21 @@ body{
  }
  .sub-header button {
      margin: 10px;
-     background-color: rgb(104, 102, 102);
+     background-color: var(--mainColor);
      color: white;
+     height: 35px;
+     width: 100px;
  }
 
  .dark-mode{
      color: white;
      background-color: black;
  }
-
- .sub-header:hover{
-    opacity: var(--hoverOpacity);
+ .sub-header button:hover{
+    background-color: black;
+    font-size: large;
  }
-
+ 
  .sub-header h3{
     float: right;
     margin-top: 30px;
